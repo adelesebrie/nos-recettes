@@ -3,6 +3,7 @@ titre: "Financiers à la pistache"
 description: "Alternative aux financiers classiques."
 auteur: "Anne-Sophie Macé"
 date: 2025-11-20
+image: financiers_pistache.jpeg 
 temps_de_préparation: "30 min"
 temps_de_cuisson: "20 min"
 temps_de_repos: ""
