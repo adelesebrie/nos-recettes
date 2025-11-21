@@ -1,6 +1,6 @@
 ---
 titre: "Recette bonheur 1"
-description: "Une recette simple et rapide pour Etre heureux"
+description: "Une recette simple et rapide pour être heureux"
 auteur: "Adèle Sebrie"
 date: 2025-10-06
 image: yoga.jpeg
