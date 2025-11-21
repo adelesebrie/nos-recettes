@@ -3,7 +3,7 @@ titre: "Recette bonheur 1"
 description: "Une recette simple et rapide pour être heureux"
 auteur: "Adèle Sebrie"
 date: 2025-10-06
-image: yoga.jpeg
+image: null
 temps_de_préparation: "15 min"
 temps_de_cuisson: "15 min"
 temps_de_repos: "20 min"
